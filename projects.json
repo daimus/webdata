@@ -2,7 +2,7 @@
     {
         "year": "2023",
         "title": "Backend Wealth M2U ID App",
-        "thumbnail": "",
+        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/project-thumbnail.jpg",
         "description": "Backend Wealth M2U ID App is a backend system designed to support the wealth management features of the M2U ID application. It provides secure and efficient APIs for investment management, portfolio tracking, and financial planning. Built with scalability and performance in mind, it ensures seamless integration with banking services and third-party financial platforms.",
         "tags": [
             "Java",

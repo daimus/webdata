@@ -37,7 +37,7 @@ _You **can** combine them_
 
 ## Images
 
-![This is an alt text.](/images/project-thumbnail.jpg "This is a sample image.")
+![This is an alt text.](https://raw.githubusercontent.com/daimus/webdata/main/images/project-thumbnail.jpg "This is a sample image.")
 
 ## Links
 
