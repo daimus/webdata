@@ -1,14 +1,16 @@
 [
     {
-        "year": "2023",
-        "title": "Backend Wealth M2U ID App",
-        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/project-thumbnail.jpg",
-        "description": "Backend Wealth M2U ID App is a backend system designed to support the wealth management features of the M2U ID application. It provides secure and efficient APIs for investment management, portfolio tracking, and financial planning. Built with scalability and performance in mind, it ensures seamless integration with banking services and third-party financial platforms.",
+        "year": "2021",
+        "title": "Network Monitoring System",
+        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/network-monitoring-system-thumbnail.jpg",
+        "description": "I built a network monitoring system that visualizes networks using topology and map views. This allows me to instantly identify where issues are occurring, making network management faster and more effective.",
         "tags": [
-            "Java",
-            "Kafka",
-            "Microservice"
+            "Javascript (NodeJS)",
+            "Websocket",
+            "Mikrotik",
+            "SNMP",
+            "Open Source"
         ],
-        "href": "/project/backend-wealth-m2u-id-app"
+        "href": "/project/network-monitoring-system"
     }
 ]
