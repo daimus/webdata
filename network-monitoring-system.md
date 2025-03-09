@@ -10,7 +10,7 @@
 
 Managing hundreds of client networks with various devices and connection types was a challenge. Whenever an issue occurred, I had to manually trace and analyze datasets one by one, which was time-consuming and inefficient. To solve this, I built a network monitoring system that visualizes networks using topology and map views. This allows me to instantly identify where issues are occurring, making network management faster and more effective.
 
-## Challenge: How I Gather Device Metrics
+## Challenge 1: How I Gather Device Metrics
 
 To effectively monitor a large-scale network, I needed a way to retrieve real-time data from each device, including connected clients, signal strength, CCQ, and latency. Since my setup primarily consists of MikroTik and Ubiquiti devices, I had to find the best method to extract this information from both brands.
 
