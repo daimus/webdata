@@ -12,5 +12,17 @@
             "Open Source"
         ],
         "href": "/project/network-monitoring-system"
+    },
+    {
+        "year": "2018",
+        "title": "Zonation Based Enrollment System",
+        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/zonation-based-enrollment-system-thumbnail.jpg",
+        "description": "Develop a zone-based enrollment system to comply ministry of education policy. This system includes school management, timetable management, resgistration, and applicant sorting based on distance and report card grades.",
+        "tags": [
+            "PHP",
+            "MySQL",
+            "Javascript (jQuery)"
+        ],
+        "href": "/project/zonation-based-enrollment-system"
     }
 ]
