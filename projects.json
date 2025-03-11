@@ -1,5 +1,18 @@
 [
     {
+        "year": "2023",
+        "title": "Wealth Bonds Trading API",
+        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/wealth-bonds-trading-api-thumbnail.jpg",
+        "description": "I contributed to building backend services for Maybank Indonesia, focusing on secondary bonds. My work included developing features for bond registration, verification, buying, selling, and redemption.",
+        "tags": [
+            "Java",
+            "Spring Boot",
+            "Oracle DB2",
+            "Kafka"
+        ],
+        "href": "/project/wealth-bonds-trading-api"
+    },
+    {
         "year": "2021",
         "title": "Network Monitoring System",
         "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/network-monitoring-system-thumbnail.jpg",
