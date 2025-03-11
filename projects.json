@@ -1,6 +1,6 @@
 [
     {
-        "year": "2023",
+        "year": "2024",
         "title": "Wealth Bonds Trading API",
         "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/wealth-bonds-trading-api-thumbnail.jpg",
         "description": "I contributed to building backend services for Maybank Indonesia, focusing on secondary bonds. My work included developing features for bond registration, verification, buying, selling, and redemption.",
@@ -11,6 +11,18 @@
             "Kafka"
         ],
         "href": "/project/wealth-bonds-trading-api"
+    },
+    {
+        "year": "2023",
+        "title": "Automated Whatsapp Service",
+        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/automated-whatsapp-service-thumbnail.jpg",
+        "description": "I created a wrapper that allows interaction with WhatsApp via REST API or a scheduler.",
+        "tags": [
+            "Typescript",
+            "MongoDB",
+            "Open Source"
+        ],
+        "href": "/project/automated-whatsapp-service"
     },
     {
         "year": "2021",
