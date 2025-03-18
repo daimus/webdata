@@ -25,6 +25,20 @@
         "href": "/project/automated-whatsapp-service"
     },
     {
+        "year": "2023",
+        "title": "Automated Continous Integration & Deployment",
+        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/automated-continous-intrgration-deployment-thumbnail.jpg",
+        "description": "I responsible to managing the Continuous Integration and Continuous Deployment (CI/CD) pipeline to ensure seamless building and delivery of backend services and NuGet packages across a global edge network.",
+        "tags": [
+            "DevOps",
+            "CI/CD",
+            "Jenkins",
+            "AWS",
+            "Docker"
+        ],
+        "href": "/project/automated-continous-intrgration-deployment"
+    },
+    {
         "year": "2021",
         "title": "Network Monitoring System",
         "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/network-monitoring-system-thumbnail.jpg",
