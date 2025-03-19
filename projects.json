@@ -39,7 +39,7 @@
         "href": "/project/automated-continous-intrgration-deployment"
     },
     {
-        "year": "2021",
+        "year": "2022",
         "title": "Network Monitoring System",
         "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/network-monitoring-system-thumbnail.jpg",
         "description": "I built a network monitoring system that visualizes networks using topology and map views. This allows me to instantly identify where issues are occurring, making network management faster and more effective.",
@@ -51,6 +51,20 @@
             "Open Source"
         ],
         "href": "/project/network-monitoring-system"
+    },
+    {
+        "year": "2021",
+        "title": "Event Driven Affiliate and Rewarding System",
+        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/event-driven-affiliate-rewarding-system-thumbnail.jpg",
+        "description": "I built an event-driven affiliate and rewarding system to an e-commerce platform to ensure fast and accurate calculation payouts. With a simple tech generates Billion IDR per month efficiently.",
+        "tags": [
+            "Typescript",
+            "Event Driven",
+            "Redis",
+            "PostgreSQL/MySQL",
+            "NextJS"
+        ],
+        "href": "/project/event-driven-affiliate-rewarding-system"
     },
     {
         "year": "2018",
