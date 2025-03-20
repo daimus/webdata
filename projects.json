@@ -1,5 +1,17 @@
 [
     {
+        "year": "2025",
+        "title": "Gas Station Attendance & Tank Meter Tracker",
+        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/gas-station-attendance-tank-meter-tracker-thumbnail.jpg",
+        "description": "In just few days, I built a gas station attendance and tank meter tracker using Directus for the backend and a PWA with Next.js to ensures accurate attendance logging and real-time tank volume records.",
+        "tags": [
+            "No Code",
+            "Directus",
+            "NextJS"
+        ],
+        "href": "/project/gas-station-attendance-tank-meter-tracker"
+    },
+    {
         "year": "2024",
         "title": "Wealth Bonds Trading API",
         "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/wealth-bonds-trading-api-thumbnail.jpg",
