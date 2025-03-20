@@ -40,7 +40,7 @@ I chose Next.js, a framework I’m familiar with, because it provides a ready-to
 
 With the design in place, the next step was backend integration. Fortunately, Directus provides a JavaScript SDK, allowing me to connect the app with minimal tweaks.
 
-![fe](https://raw.githubusercontent.com/daimus/webdata/main/images/pumphub-f2.PNG)
+![fe](https://raw.githubusercontent.com/daimus/webdata/main/images/pumphub-fe.PNG)
 
 ## Completed in 2 Days
 
