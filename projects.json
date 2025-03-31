@@ -79,6 +79,19 @@
         "href": "/project/event-driven-affiliate-rewarding-system"
     },
     {
+        "year": "2022",
+        "title": "High Performance and SEO Freindly News Portal",
+        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/high-performance-and-seo-friendly-news-portal-thumbnail.jpg",
+        "description": "I built high performace and SEO friendly news portal that supports multiple authors, an editorial workflow, content recommendations, ads management, user interactions like reactions and comments, and is optimized for high performance and SEO.",
+        "tags": [
+            "Javascript (NodeJS)",
+            "PHP",
+            "Postgres",
+            "SEO"
+        ],
+        "href": "/project/high-performance-and-seo-friendly-news-portal"
+    },
+    {
         "year": "2018",
         "title": "Zonation Based Enrollment System",
         "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/zonation-based-enrollment-system-thumbnail.jpg",
