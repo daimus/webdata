@@ -102,5 +102,17 @@
             "Javascript (jQuery)"
         ],
         "href": "/project/zonation-based-enrollment-system"
+    },
+    {
+        "year": "2019",
+        "title": "Super Apps for School and University",
+        "thumbnail": "https://raw.githubusercontent.com/daimus/webdata/main/images/super-apps-for-school-and-university-thumbnail.jpg",
+        "description": "I built Super App for school administration, student payments, and financial literacy. It features an attendance system, a BNI-integrated payment platform, and a student savings app, with web-based tools for administrators and a mobile app for students.",
+        "tags": [
+            "PHP",
+            "MySQL",
+            "Javascript (jQuery)"
+        ],
+        "href": "/project/super-apps-for-school-and-university"
     }
 ]
