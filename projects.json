@@ -110,6 +110,7 @@
         "description": "I built Super App for school administration, student payments, and financial literacy. It features an attendance system, a BNI-integrated payment platform, and a student savings app, with web-based tools for administrators and a mobile app for students.",
         "tags": [
             "PHP",
+            "Java (Android)",
             "MySQL",
             "Javascript (jQuery)"
         ],
