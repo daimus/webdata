@@ -18,7 +18,7 @@ These efforts have yielded solid results, with good scores on Google Lighthouse 
 
 ## Manage Traffic
 
-Serving news pages isn’t resource-intensive, but to ensure fast delivery, I implemented techniques like database indexing, caching, and CDN caching. With the current server setup, the system can handle over thousand requests per second, meaning it’s capable of serving million of users daily. Unfortunately, we don’t have much actual user, we only have thousand visits per day based on cloudflare’s report.
+Serving news pages isn’t resource-intensive, but to ensure fast delivery, I implemented techniques like database indexing, caching, and CDN caching. With the current server setup, the system can handle over dozen requests per second, meaning it’s capable of serving million of users. Unfortunately, we don’t have much actual user, we only have thousand visits per day based on cloudflare’s report.
 
 Beyond handling real users, online platforms are vulnerable to cyberattacks like DDoS. From the start, I integrated Cloudflare and an internal firewall for protection. This proved essential when the site faced a DDoS attack with billions of requests. Thanks to the security layers, real users remained unaffected.
 
