@@ -1,5 +1,1 @@
-Hi, I’m Daimus, a Software Engineer from Indonesia with a foundation in Informatics Engineering, which has equipped me with a balanced skill set in software architecture, backend and frontend development, system optimization, and delivering scalable, maintainable solutions aligned with business needs. For over four years, I’ve built my expertise working across various industries.  
-
-My career journey began with a focus on software development during college. I worked as a software engineer at IDprogrammer until 2023, where I engineered high-performance, SEO-optimized websites focused on efficiency and profitability, delivering solutions that drive traffic, enhance user engagement, and boost revenue. Later, at IKON, I was part of the Wealth Squad in one of the largest banks, where I developed robust, scalable backend systems and optimized performance and accessibility for the Mobile Banking App.  
-
-For me, software engineering is a continuous journey of problem-solving and innovation. Much like navigating uncharted territory, it’s a field that demands resilience, adaptability, and a passion for learning to achieve meaningful impact.
+Hi, I’m Daimus.
